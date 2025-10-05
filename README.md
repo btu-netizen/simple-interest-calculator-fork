@@ -6,4 +6,5 @@ This repository contains a Bash script to compute simple interest.
 
 ```bash
 bash simple-interest.sh
+This line fixes a small typo.
 
